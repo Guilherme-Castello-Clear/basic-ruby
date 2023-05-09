@@ -1,0 +1,11 @@
+puts "Castello".object_id
+puts "Castello".object_id
+puts "Castello".object_id
+puts "Castello".object_id
+puts "Castello".object_id
+puts "=========="
+puts :castello.object_id
+puts :castello.object_id
+puts :castello.object_id
+puts :castello.object_id
+puts :castello.object_id
